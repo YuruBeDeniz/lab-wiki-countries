@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <div>LAB - WikiCountries</div>
+    <h1>LAB - WikiCountries</h1>
   )
 }
