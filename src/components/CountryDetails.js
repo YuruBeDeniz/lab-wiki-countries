@@ -33,7 +33,6 @@ export default function CountryDetails({countries}) {
     <br />
     <div>
       <Link to={'/'} >Go back Home</Link>
-    <br />  
     </div>    
     </div>
   )
